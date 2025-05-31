@@ -4,7 +4,7 @@ function appendValue(value){
     result.value += value;
 }
 function toggleSign(){
-    if(result.value.startWith('-')){
+    if(result.value.startsWith('-')){
         result.value = result.value.slice(1);
     } else{
         result.value = '-' + result.value;

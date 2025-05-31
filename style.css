@@ -56,11 +56,11 @@ button{
     background-color:orange;
 }
 
-/* @media  (max-width:600px){
+@media  (max-width:600px){
 
     .container{
         width:95%;
         margin:50px auto;
         padding:10px;
     }
-} */
+}
